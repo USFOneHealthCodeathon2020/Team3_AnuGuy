@@ -11,7 +11,7 @@ Requirements:
 - dada2 1.14.1
 
 ## Installation Instructions
-   wget https://repo.anaconda.com/archive/Anaconda3-2019.10-MacOSX-x86_64.sh && bash Anaconda3-2019.10-MacOSX-x86_64.sh 
+    wget https://repo.anaconda.com/archive/Anaconda3-2019.10-MacOSX-x86_64.sh && bash Anaconda3-2019.10-MacOSX-x86_64.sh 
    
 ### Download and Install Conda
 
