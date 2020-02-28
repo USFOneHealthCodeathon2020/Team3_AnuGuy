@@ -26,13 +26,13 @@ https://www.anaconda.com/distribution/
     cd projectZer0 && conda create -n Zer0 python=3.6.9 --file requirements.txt
     
 ### Activate the Zer0 Enviroment
-    conda activate zer0
+    conda activate Zer0
     
 ### Launch the Zer0 Djano WebApp
     python manage.py runserver
     
 ### Connect to WebApp
-   Use a web browser* to access Zer0 locally at <a href="localhost:8000">localhost:8000</a> or <a href="127.0.0.1:8000">127.0.0.1:8000</a>
+   Use a web browser* to access Zer0 locally at http://localhost:8000 or http://127.0.0.1:8000
     
    *google chrome preferred
  
