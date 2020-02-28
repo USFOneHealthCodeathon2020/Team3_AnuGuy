@@ -10,16 +10,30 @@ Requirements:
 - R 3.6.2
 - dada2 1.14.1
 
-## Install & Run*
+## Installation Instructions
+   wget https://repo.anaconda.com/archive/Anaconda3-2019.10-MacOSX-x86_64.sh && bash Anaconda3-2019.10-MacOSX-x86_64.sh 
+   
+### Download and Install Conda
 
-    wget "url to our tarball"
-    tar -xvf projectZer0.tar.gz
-    cd zer0
-    conda create zer0
+### Download projectZer0
+    wget https://github.com/USFOneHealthCodeathon2020/projectZer0/raw/master/projectZer0.tar.gz
+    
+### Decompress the tarball
+    tar -vxzf projectZer0.tar.gz
+    
+### Create a new environment in Conda with the required dependencies
+    cd projectZer0 && conda create -n Zer0 python=3.6.9 --file requirements.txt
+    
+### Activate the Zer0 Enviroment
     conda activate zer0
+    
+### Launch the Zer0 Djano WebApp
     python manage.py runserver
     
-   *will run locally and be accessable at localhost:8000 or 127.0.0.1:8000.
+### Connect to WebApp
+    Use a browser* to locally access Zer0 at localhost:8000 or 127.0.0.1:8000
+    
+    *google chrome preferred
  
 ## Examples
 
