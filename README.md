@@ -3,6 +3,7 @@
 Say something about ProjectZer0. Maecenas porta risus ut convallis hendrerit. Aenean aliquet, dolor lobortis blandit laoreet, mauris nulla interdum odio, in lacinia libero quam feugiat augue. Fusce dapibus tristique dui, quis interdum ipsum aliquet nec. 
 
 Requirements:
+- bash
 - conda 4.7.12
 - python 3.6.9
 - tensorflow (>=2.1.0)
