@@ -14,7 +14,7 @@ Requirements:
 ## Installation Instructions
     
 ### Download and Install Conda
-    wget https://repo.anaconda.com/archive/Anaconda3-2019.10-MacOSX-x86_64.sh && bash Anaconda3-2019.10-MacOSX-x86_64.sh 
+https://www.anaconda.com/distribution/
    
 ### Download projectZer0
     wget https://github.com/USFOneHealthCodeathon2020/projectZer0/raw/master/projectZer0.tar.gz
