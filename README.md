@@ -67,7 +67,7 @@ The pre-loaded scripts can give the following results:
 2) The bacterial count table for all the samples (ASV counts in rows and samples in the columns)
 3) The taxonomies (upto genus or species level) of each ASV based on Silva Database v.132
 
-### Id Imperdiet Metus 
+### Data Visulization
 
 Luctus quis. Vivamus ut consectetur orci, vel venenatis lacus. 
 
