@@ -31,9 +31,9 @@ Requirements:
     python manage.py runserver
     
 ### Connect to WebApp
-    Use a browser* to locally access Zer0 at localhost:8000 or 127.0.0.1:8000
+   Use a web browser* to access Zer0 locally at localhost:8000 or 127.0.0.1:8000
     
-    *google chrome preferred
+   *google chrome preferred
  
 ## Examples
 
